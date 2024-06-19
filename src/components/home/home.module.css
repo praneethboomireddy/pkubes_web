@@ -1,0 +1,17 @@
+.home {    
+    background: url("../../images/HomePage.jpg") no-repeat center/cover;
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+
+.img_style{
+    width: 100%;
+    height: 500px;
+}
+
+.content {
+    align-content: center;
+    color: #fff;
+    font-size: 2rem;
+}
